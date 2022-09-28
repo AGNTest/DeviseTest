@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LuccaDevises": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\\\Users\\\\alexis.guegan\\\\sources\\\\Test\\\\LuccaDevises\\\\TestDevise\\\\files\\\\RatesChanges2.txt"
+    }
+  }
+}
